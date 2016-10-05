@@ -1,0 +1,24 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+	background-color: dimgrey;
+	text-align: center;
+}
+h1, h2 {
+	color: white
+}
+p {
+	color: white
+}
+#case1, #case2 {
+	width: 20px;
+	height: 20px;
+	border:0px;}
+
+	.casic{
+	padding: 30px;
+	text-align: center;
+	float:none;
+}
+ol, h3, ul {
+	text-align: left;
+}
